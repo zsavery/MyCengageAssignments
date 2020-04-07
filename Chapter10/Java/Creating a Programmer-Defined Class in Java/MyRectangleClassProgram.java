@@ -1,4 +1,3 @@
-// This program uses the programmer-defined Rectangle class. 
 
 public class MyRectangleClassProgram
 {
@@ -33,3 +32,4 @@ public class MyRectangleClassProgram
       System.exit(0);
    }
 }
+
