@@ -36,6 +36,7 @@ public class ArtShow
         {
             discount();
         }
+        s.close();
 	
 		System.exit(0);
 
